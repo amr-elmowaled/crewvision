@@ -1,0 +1,13 @@
+{
+    "zones": [
+        {
+            "zone_id": 51,
+            "camera_ip": "192.168.1.100",
+            "camera_port": 554,
+            "frame_region": [200,300, 700, 900],
+            "stream": "stream1"
+        }
+    ],
+    "username": "admin",
+    "password": "password"
+}
